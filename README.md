@@ -1,2 +1,2 @@
-# Taxi_Trip_Prediction_Scikit-Learn_SnapML
+Using Decision Tree Regressor Model with Scikit-learn and Snap ML for taxi trip prediction.
  
